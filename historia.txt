@@ -1,0 +1,6 @@
+Este es un archivo de prueba git
+
+Vamos a volvernos asperos
+
+
+Que bueno es git
