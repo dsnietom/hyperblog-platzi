@@ -5,5 +5,4 @@ Vamos a volvernos asperos
 
 Que bueno es git
 
-este es un cambio mas
-que se borrara pronto
+Pero hacer algo puede ser peligroso
